@@ -1,2 +1,0 @@
-# DockerTesting
-Testing Docker things
